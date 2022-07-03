@@ -1,0 +1,6 @@
+keys = {
+[wkKphUvd] = true, -- Random key!
+[bezTuppb] = true,
+[dhQ1YlBw] = true
+}
+return keys
